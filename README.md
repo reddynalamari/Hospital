@@ -49,8 +49,9 @@ The Hospital Management System project aims to streamline the registration and m
 
 ## Contributors
 - [Shashidhar Reddy Nalamari](https://github.com/reddynalamari)
-- [Other Contributors]
+- N V Ramkishore
+- M Aditi
+- M Vijay
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
