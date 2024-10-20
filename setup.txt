@@ -3,3 +3,5 @@ in database.py add your database password
 in mail.py add your gmail and password
 
 you can change the credentials of the admin in admin.py
+
+create a database in MySql named "hospital"
