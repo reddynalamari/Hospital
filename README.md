@@ -55,3 +55,13 @@ The Hospital Management System project aims to streamline the registration and m
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screens
+Main Frame<br>
+![Chatbot Interface](./images/Picture1.png)<br>
+Login Screen<br>
+![Chatbot Interface](./images/Picture2.png)<br>
+Admin options<br>
+![Chatbot Interface](./images/Picture3.png)<br>
+Details of a patient<br>
+![Chatbot Interface](./images/Picture4.png)<br>
